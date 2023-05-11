@@ -1,5 +1,5 @@
 config
-  info: "prod"
+  info: "main branch,springcloud-config/config-prod.yml version=1"
 server:
   port: 7001
 eureka:
