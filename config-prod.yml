@@ -1,4 +1,4 @@
-config
+config:
   info: "main branch,springcloud-config/config-prod.yml version=1"
 server:
   port: 7001
