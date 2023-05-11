@@ -1,5 +1,5 @@
 config
-  info: test
+  info: "test"
 server:
   port: 7001
 eureka:
